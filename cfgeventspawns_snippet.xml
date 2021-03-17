@@ -1,0 +1,5 @@
+<!-- Code snippet to be copied and pasted into your cfgeventspawns xml file to give you a pet wolf at the given coordinates -->
+
+<event name="ItemWolf1">
+        <pos x="3701.03" z="5988.84" a="113.000000" />
+    </event>
